@@ -62,7 +62,7 @@ const Dashboard = ({ navigation }) => {
                 </TouchableOpacity>
                  {/* { Label/ Title} */}
                  <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-                     <Text style={{ color: COLORS.white, ...FONTS.h3}}>ASIA</Text>
+                     <Text style={{ color: COLORS.white, ...FONTS.h3}}>SRI LANKA</Text>
 
                  </View>
                   {/* { profile} */}
